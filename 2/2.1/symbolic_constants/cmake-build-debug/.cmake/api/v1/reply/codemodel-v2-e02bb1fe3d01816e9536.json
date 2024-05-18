@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "symbolic_constants",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "symbolic_constants::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-symbolic_constants-Debug-c0ef0a56054b271eef9a.json",
+					"name" : "symbolic_constants",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/\u5b66\u4e60\u8d44\u6599/408/\u6570\u636e\u7ed3\u6784/01.24C\u8bed\u8a00\u7763\u5b66\u8bad\u7ec3\u8425/04.\u8bfe\u4ef6\uff0c\u4ee3\u7801\u5408\u96c6/Code/2/2.1/symbolic_constants/cmake-build-debug",
+		"source" : "D:/\u5b66\u4e60\u8d44\u6599/408/\u6570\u636e\u7ed3\u6784/01.24C\u8bed\u8a00\u7763\u5b66\u8bad\u7ec3\u8425/04.\u8bfe\u4ef6\uff0c\u4ee3\u7801\u5408\u96c6/Code/2/2.1/symbolic_constants"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
